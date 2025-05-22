@@ -1,0 +1,15 @@
+{
+  "name": "com.gameframe.water2d",
+  "displayName": "Gameframe.Water2D",
+  "version": "2.0.1",
+  "keywords": [],
+  "author": {
+    "name": "Cory Leach",
+    "email": "cory.leach@gmail.com",
+    "url": "https://github.com/coryleach",
+    "github": "coryleach",
+    "twitter": "coryleach"
+  },
+  "description": "> Splashy 2D water",
+  "repositoryName": "UnityWater2D"
+}
